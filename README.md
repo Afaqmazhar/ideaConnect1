@@ -1,1 +1,1 @@
-# ideaConnect1
+# https://github.com/Afaqmazhar/ideaConnect1.git
